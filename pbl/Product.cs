@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace pbl
+namespace inforProduct
 {
     public class product
     {

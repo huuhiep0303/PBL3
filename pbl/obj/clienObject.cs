@@ -15,25 +15,9 @@ public class clientObject : human
         member_point = 0;
         quantity.Add(0);
         shoppingCart.Add(0);
-        ID = 0;
-        name = "";
-        birth.startDate();
-        gender = "";
-        addres.startAddress();
-        phone = "";
-        userName = "";
-        password = "";
     }
     clientObject(int ID, string name, string birth, string gender, Location address, string phone, string userName, string password, int member_point, List<string> shoppingCart, List<int> quantity)
     {
-        this.ID = ID;
-        this.name = name;
-        this.birth = birth;
-        this.gender = gender;
-        this.address = address;
-        this.phone = phone;
-        this.userName = userName;
-        this.password = password;
         this.member_point = member_point;
         this.shoppingCart = shoppingCart;
         this.quantity = quantity;
