@@ -1,4 +1,6 @@
 using System;
+using System.Data.SqlClient;
+using System.Data.SqlTypes;
 
 namespace humanFeature
 {
@@ -136,6 +138,9 @@ namespace humanFeature
             }
             //cần tạo một hàm để kiểm tra thử tài khoản này có tồn tại hay chưa
         }
+
+        public virtual void check(string name, string id);
+
         public void signIn()
         {
             Console.WriteLine("Tên tài khoản: ");

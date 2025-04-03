@@ -1,7 +1,7 @@
 using System;
 using clientObject;
-using Product;
-
+using inforProduct;
+using human;
 public class oder{
 
 };

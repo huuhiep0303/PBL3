@@ -21,8 +21,10 @@ namespace inforProduct
         public Dictionary<string, object> DynamicAttributes { get; set; } = new();
         protected bool isOnlineSale {  get; set; }
 
+        protected product Next;
+
         public product(int Id_product, string Name_product, string Description_product, int categoryId, decimal Price, bool IsAvailable, decimal StockQuantity,
-            decimal Discount, bool IsOnlineSale, decimal reorderlevel)
+            decimal Discount, bool IsOnlineSale, decimal reorderlevel, product Next)
         {
             this.CategoryId = categoryId;
             this.id_product = Id_product;
@@ -34,6 +36,7 @@ namespace inforProduct
             this.isOnlineSale = IsOnlineSale;
             this.discount = Discount;
             this.ReorderLevel = reorderlevel;
+            this.Next = Next
         }
         public void UpdateNameProduct(string nName_product) => name_product = nName_product;
         public void UpdateDecriptionProduct(string decrip) => description_product = decrip;
@@ -83,7 +86,44 @@ namespace inforProduct
         {
             return stockQuantity <= ReorderLevel;
         }
+    };
 
+    class productList{
+        protected product head;
+        protected void addProduct(int id_product, string name_product){
+            product newProduct = new product(id_product, name_product);
+            if(head == null) head = newProduct;
+            else{
+                product temp = head;
+                while(temp != null){
+                    temp = text.Next;
+                }
+                temp.Next = newProduct;
+            }
+        }
 
+        protected void removeProduct (int id_product){
+
+            if(head == null) return;
+
+            if(head.id_product == id_product){
+                head = head.Next;
+                return;
+            }
+
+            product temp = head;
+            product prev = null; //dùng để gán tạm thời khi tìm được node cần xoá
+            while(temp != null && temp.id_product != id_product){
+                prev = temp;
+                temp = temp.Next;
+            }
+            if(temp == null) {
+                Console.WriteLine("Không tìm thấy sản phẩm để xoá");
+                return;
+            }
+            prev.Next = temp.Next;//xoá thành công
+            Console.WriteLine("Đã xoá thành công.");
+        }
+        
     }
 }

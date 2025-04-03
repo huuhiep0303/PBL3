@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#\\pbl\\pbl\\pbl.csproj": {}
+    "D:\\PBL3 - quản lí dịch vụ bán hàng online và offline\\PBL3\\pbl\\pbl.csproj": {}
   },
   "projects": {
-    "D:\\c#\\pbl\\pbl\\pbl.csproj": {
+    "D:\\PBL3 - quản lí dịch vụ bán hàng online và offline\\PBL3\\pbl\\pbl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#\\pbl\\pbl\\pbl.csproj",
+        "projectUniqueName": "D:\\PBL3 - quản lí dịch vụ bán hàng online và offline\\PBL3\\pbl\\pbl.csproj",
         "projectName": "pbl",
-        "projectPath": "D:\\c#\\pbl\\pbl\\pbl.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\c#\\pbl\\pbl\\obj\\",
+        "projectPath": "D:\\PBL3 - quản lí dịch vụ bán hàng online và offline\\PBL3\\pbl\\pbl.csproj",
+        "packagesPath": "C:\\Users\\phanh\\.nuget\\packages\\",
+        "outputPath": "D:\\PBL3 - quản lí dịch vụ bán hàng online và offline\\PBL3\\pbl\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\phanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -54,13 +54,13 @@
             "Microsoft.DotNet.ILCompiler": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.11, )",
+              "version": "[8.0.14, )",
               "autoReferenced": true
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.11, )",
+              "version": "[8.0.14, )",
               "autoReferenced": true
             }
           },
@@ -78,7 +78,7 @@
           "downloadDependencies": [
             {
               "name": "runtime.win-x64.Microsoft.DotNet.ILCompiler",
-              "version": "[8.0.11, 8.0.11]"
+              "version": "[8.0.14, 8.0.14]"
             }
           ],
           "frameworkReferences": {
@@ -86,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
