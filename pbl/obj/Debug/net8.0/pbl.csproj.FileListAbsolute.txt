@@ -1,0 +1,5 @@
+D:\PBL3 - quản lí dịch vụ bán hàng online và offline\PBL3\pbl\obj\Debug\net8.0\pbl.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBL3 - quản lí dịch vụ bán hàng online và offline\PBL3\pbl\obj\Debug\net8.0\pbl.AssemblyInfoInputs.cache
+D:\PBL3 - quản lí dịch vụ bán hàng online và offline\PBL3\pbl\obj\Debug\net8.0\pbl.AssemblyInfo.cs
+D:\PBL3 - quản lí dịch vụ bán hàng online và offline\PBL3\pbl\obj\Debug\net8.0\pbl.csproj.CoreCompileInputs.cache
+D:\PBL3 - quản lí dịch vụ bán hàng online và offline\PBL3\pbl\obj\Debug\net8.0\pbl.sourcelink.json

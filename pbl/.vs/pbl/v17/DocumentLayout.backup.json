@@ -3,38 +3,72 @@
   "WorkspaceRootPath": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\employeeObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:employeeObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85F5A9B6-BB0C-7ABE-03C3-786479990387}|pbl.csproj|d:\\pbl3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\pbl3\\pbl\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F5A9B6-BB0C-7ABE-03C3-786479990387}|pbl.csproj|solutionrelative:bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85F5A9B6-BB0C-7ABE-03C3-786479990387}|pbl.csproj|d:\\pbl3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\pbl3\\pbl\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F5A9B6-BB0C-7ABE-03C3-786479990387}|pbl.csproj|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\humanFeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:humanFeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85F5A9B6-BB0C-7ABE-03C3-786479990387}|pbl.csproj|d:\\pbl3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\pbl3\\pbl\\humanfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F5A9B6-BB0C-7ABE-03C3-786479990387}|pbl.csproj|solutionrelative:humanfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F5A9B6-BB0C-7ABE-03C3-786479990387}|pbl.csproj|d:\\pbl3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\pbl3\\pbl\\employeeobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F5A9B6-BB0C-7ABE-03C3-786479990387}|pbl.csproj|solutionrelative:employeeobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F5A9B6-BB0C-7ABE-03C3-786479990387}|pbl.csproj|d:\\pbl3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\pbl3\\pbl\\productmanegement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F5A9B6-BB0C-7ABE-03C3-786479990387}|pbl.csproj|solutionrelative:productmanegement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 189,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "client.cs",
-              "DocumentMoniker": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\client.cs",
-              "RelativeDocumentMoniker": "client.cs",
-              "ToolTip": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\client.cs",
-              "RelativeToolTip": "client.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "productManegement.cs",
+              "DocumentMoniker": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\productManegement.cs",
+              "RelativeDocumentMoniker": "productManegement.cs",
+              "ToolTip": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\productManegement.cs",
+              "RelativeToolTip": "productManegement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T07:35:23.945Z",
+              "WhenOpened": "2025-04-04T01:01:29.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bill.cs",
+              "DocumentMoniker": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\bill.cs",
+              "RelativeDocumentMoniker": "bill.cs",
+              "ToolTip": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\bill.cs",
+              "RelativeToolTip": "bill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T00:50:02.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "employeeObject.cs",
+              "DocumentMoniker": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\employeeObject.cs",
+              "RelativeDocumentMoniker": "employeeObject.cs",
+              "ToolTip": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\employeeObject.cs",
+              "RelativeToolTip": "employeeObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T00:40:23.902Z",
               "EditorCaption": ""
             },
             {
@@ -45,22 +79,22 @@
               "RelativeDocumentMoniker": "humanFeature.cs",
               "ToolTip": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\humanFeature.cs",
               "RelativeToolTip": "humanFeature.cs",
-              "ViewState": "AgIAAHoAAAAAAAAAAAAAAHIAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wI4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T13:59:40.692Z",
+              "WhenOpened": "2025-04-04T00:24:36.098Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "employeeObject.cs",
-              "DocumentMoniker": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\employeeObject.cs",
-              "RelativeDocumentMoniker": "employeeObject.cs",
-              "ToolTip": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\employeeObject.cs",
-              "RelativeToolTip": "employeeObject.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "client.cs",
+              "DocumentMoniker": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\client.cs",
+              "RelativeDocumentMoniker": "client.cs",
+              "ToolTip": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\client.cs",
+              "RelativeToolTip": "client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T07:34:49.267Z",
+              "WhenOpened": "2025-04-04T00:19:24.592Z",
               "EditorCaption": ""
             }
           ]

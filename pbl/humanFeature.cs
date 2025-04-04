@@ -84,7 +84,7 @@ namespace humanFeature
         protected string phone { get; set; }
         protected string userName { get; set; }
         protected string password { get; set; }
-        human()
+        public human()
         {
             ID = 0;
             name = "";
@@ -95,7 +95,7 @@ namespace humanFeature
             userName = "";
             password = "";
         }
-        human(int ID, string name, date birth, string gender, Location address, string phone, string userName, string password)
+        public human(int ID, string name, date birth, string gender, Location address, string phone, string userName, string password)
         {
             this.ID = ID;
             this.name = name;
@@ -106,7 +106,6 @@ namespace humanFeature
             this.userName = userName;
             this.password = password;
         }
-        ~human() { }
         public void register()
         {
             //Cái này là lớp đa hình do khách hàng và nhân viên đều có chung nên sẽ thêm môt số thành phần sau
@@ -139,7 +138,10 @@ namespace humanFeature
             //cần tạo một hàm để kiểm tra thử tài khoản này có tồn tại hay chưa
         }
 
-        public virtual void check(string name, string id);
+        public void checkUser(string name, string id)
+        {
+            //cú pháp check cơ sở dữ liệu
+        }
 
         public void signIn()
         {
