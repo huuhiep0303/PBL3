@@ -1,14 +1,15 @@
 using humanFeature;
-
+using inforProduct;
+using billOrder;
 namespace employee
 {
     public class employeeObject : human
     {
-        protected string position { get; set; } //chức vụ
-        protected double salary { get; set; }
-        protected int shift { get; set; } //shift: ca làm việc
-        protected Location workPlace { get; set; }
-        protected date workDate { get; set; }
+        public abstract string position; //chức vụ
+        protected double salary;
+        protected int shift;//shift: ca làm việc
+        protected Location workPlace;
+        protected date workDate;
         public employeeObject()
         {
             position = "";
@@ -24,17 +25,10 @@ namespace employee
             this.workPlace = workPlace;
             this.workDate = workDate;
         }
-        // public void addProduct()
-        // {
-        //     //thêm sản phẩm
-        // }
-        // public void removeProduct()
-        // {
-        //     //xóa
-        // }
 
         class manageStore : employeeObject
         {
+            public override string position = "Quản lí kho"; //chức vụ
             protected double efficiency { get; set; } //hiệu suất làm việc trong tuần
             protected List<string> productList;
             protected List<double> price;
@@ -75,6 +69,7 @@ namespace employee
                 }
             }
 
+            //lấy hàng của kho hay là gửi thông báo tới quản lí kho
             public void takeProduct(string product, int quantity)
             {
                 for (int i = 0; i < this.productList.Count; i++)
@@ -90,20 +85,86 @@ namespace employee
 
         class cashier : employeeObject
         {
-            public void caculator()
-            {
+            //cần gán cú pháp truy cập hệ cơ sở dữ liệu, giúp cho cashier thêm hoá đơn vào kho lưu trữ
+            protected LinkedList<bill> billList;
+            public override string position = "Thu ngân"; //chức vụ
 
+            public cashier()
+            {
+                this.billList = new LinkedList<bill>();
+            }
+
+            public cashier(LinkedList<bill> billList)
+            {
+                this.billList = billList;
+            }
+
+            public void addBill(bill newBill)
+            {
+                this.billList.AddLast(newBill);
+            }
+
+            public void manageBill()
+            {
+                for (bill eachBill in LinkedList<bill> billList)
+                {
+                    Console.WriteLine(eachBill);
+                    Console.WriteLine();
+                }    
+            }
+
+            public void printBill(string idBill)
+            {
+                for(bill eachBill in LinkedList < bill > billList)
+                {
+                    if (eachBill.IDBill == idBill)
+                    {
+                        Console.WriteLine(eachBill);
+                        Console.WriteLine();
+                    }
+                }
+            }
+
+            public void removeBill(string idBill)
+            {
+                for (bill eachBill in LinkedList < bill > billList)
+                {
+                    if (eachBill.IDBill == idBill)
+                    {
+                        billList.Remove(eachBill);
+                        break;
+                    }
+                }
+            }
+
+            public void searchName(string name)
+            {
+                for (bill eachBill in LinkedList <bill> listBill)
+                {
+                    if(eachBill.whoBuy.name == name)
+                    {
+                        Console.WriteLine(eachBill);   
+                        Console.WriteLine();
+                    }
+                }
             }
         }
 
         class presidant : employeeObject
         {
-
-            protected List<manageStore> employeeList;
-            protected List<double> salary;
+            public override string position = "Quản lí nhân sự"; //chức vụ
+            protected LinkedList<manageStore> manageStoreList;
+            protected LinkedList<cashier> cashierList;
             protected void addNewEmployee(employeeObject newEmployee)
             {
-
+                if (newEmployee.position == "Quản lí kho")
+                {
+                    manageStoreList.AddLast(newEmployee);
+                }
+                else if (newEmployee.position == "Thu ngân")
+                {
+                    cashierList.AddLast(newEmployee);
+                }
             }
         };
     };
