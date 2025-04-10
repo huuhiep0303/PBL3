@@ -1,6 +1,8 @@
 ﻿using humanFeature;
 using System;
-
+//cập nhật list của mỗi đối tượng sau mỗi lần cập nhật trên API.
+// Mỗi lần tính tiền thì lấy một mảng tạm thời để đem ra tính.
+//Lấy biến tạm để lấy dữ liệu từ cơ sở dữ liệu
 namespace client
 {
     public class client : human

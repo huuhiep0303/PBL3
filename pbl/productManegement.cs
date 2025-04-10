@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+//cứ dùng các list để lưu các danh sách như là danh sách hàng, thông tinh nhân viên, các list đó sẽ được kết nối để lấy thông tin tử csdl sau
 namespace inforProduct
 {
     internal class productManegement

@@ -148,6 +148,11 @@ namespace employee
                     }
                 }
             }
+
+            public double totalBill(string Id)
+            {
+                while(this.billList)
+            }
         }
 
         class presidant : employeeObject
