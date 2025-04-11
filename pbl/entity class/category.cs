@@ -11,22 +11,33 @@ namespace inforProduct
     {
         public int CategoryId {  get; set; }
         public string CategoryName { get; set; }
-        protected string CategoryDescription { get; set; } = string.Empty;
+        public string CategoryDescription { get; set; } = string.Empty;
         
-        protected List<product> products { get; set; }
+        public List<product> products { get; set; }
         public category(int categoryid, string categoryName,List<product> Products, string categoryDescription)
         {
-            products = Products;
+            products = Products ?? new List<product>();
             CategoryId = categoryid;
             CategoryName = categoryName;
-            CategoryDescription = categoryDescription;
+            CategoryDescription =    categoryDescription;
 
 
         }
         public void DisplayCategory()
         {
-            Console.WriteLine($"[{CategoryId}] {CategoryName} - {CategoryDescription}");
-            Console.WriteLine($"Các thuộc tính động cho phép: {string.Join(", ", products)}");
+            Console.WriteLine($"📁 [{CategoryId}] {CategoryName} - {CategoryDescription}");
+            if (products.Any())
+            {
+                Console.WriteLine("📦 Danh sách sản phẩm:");
+                foreach (var p in products)
+                {
+                    Console.WriteLine($" - {p.name_product} (ID: {p.id_product}, Giá: {p.price})");
+                }
+            }
+            else
+            {
+                Console.WriteLine("⚠️ Chưa có sản phẩm nào trong danh mục này.");
+            }
         }
     }
 
