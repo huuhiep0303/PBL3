@@ -10,6 +10,7 @@ namespace inforProduct
 {
     internal class productManegement
     {
+        List<category> categoryList;
         private List<product> products = new();
         private categoryManagement categoryService;
         public productManegement(categoryManagement categoryManagement)

@@ -12,7 +12,7 @@ namespace inforProduct
         public int CategoryId {  get; set; }
         public string CategoryName { get; set; }
         protected string CategoryDescription { get; set; } = string.Empty;
-
+        
         protected List<product> products { get; set; }
         public category(int categoryid, string categoryName,List<product> Products, string categoryDescription)
         {
