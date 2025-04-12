@@ -106,23 +106,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\phanh\\.nuget\\packages\\": {},
+    "C:\\Users\\ADMIN\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PBL3 - quản lí dịch vụ bán hàng online và offline\\PBL3\\pbl\\pbl.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\pbl.csproj",
       "projectName": "pbl",
-      "projectPath": "D:\\PBL3 - quản lí dịch vụ bán hàng online và offline\\PBL3\\pbl\\pbl.csproj",
-      "packagesPath": "C:\\Users\\phanh\\.nuget\\packages\\",
-      "outputPath": "D:\\PBL3 - quản lí dịch vụ bán hàng online và offline\\PBL3\\pbl\\obj\\",
+      "projectPath": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\pbl.csproj",
+      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\phanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

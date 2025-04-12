@@ -23,7 +23,7 @@ namespace inforProduct
         public bool isOnlineSale { get; set; }
         public category CategoryInfo { get; set; }
         public Inventory InventoryInfo { get; set; } // optional
-
+        public string Unit {  get; set; }// đơn vị tính , vd: chai, hộp, thùng,...
         //protected product Next;
 
         public product(int Id_product, string Name_product, string Description_product, int categoryId, decimal Price, bool IsAvailable,

@@ -1,12 +1,234 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\pbl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pbl\\pbl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\Manager\\productManegement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pbl\\Manager\\productManegement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\Manager\\categoryManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pbl\\Manager\\categoryManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\entity class\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pbl\\entity class\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\humanFeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pbl\\humanFeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\entity class\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pbl\\entity class\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\entity class\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pbl\\entity class\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\entity class\\InventoryItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pbl\\entity class\\InventoryItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\entity class\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pbl\\entity class\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\employeeObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pbl\\employeeObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\Manager\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pbl\\Manager\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pbl\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\entity class\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pbl\\entity class\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "bill.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\Manager\\bill.cs",
+              "RelativeDocumentMoniker": "pbl\\Manager\\bill.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\Manager\\bill.cs",
+              "RelativeToolTip": "pbl\\Manager\\bill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T01:33:43.414Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "categoryManagement.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\Manager\\categoryManagement.cs",
+              "RelativeDocumentMoniker": "pbl\\Manager\\categoryManagement.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\Manager\\categoryManagement.cs",
+              "RelativeToolTip": "pbl\\Manager\\categoryManagement.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T01:23:44.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "product.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\entity class\\product.cs",
+              "RelativeDocumentMoniker": "pbl\\entity class\\product.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\entity class\\product.cs",
+              "RelativeToolTip": "pbl\\entity class\\product.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T03:09:41.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\entity class\\Program.cs",
+              "RelativeDocumentMoniker": "pbl\\entity class\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\entity class\\Program.cs",
+              "RelativeToolTip": "pbl\\entity class\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T01:28:44.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InventoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\entity class\\InventoryItem.cs",
+              "RelativeDocumentMoniker": "pbl\\entity class\\InventoryItem.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\entity class\\InventoryItem.cs",
+              "RelativeToolTip": "pbl\\entity class\\InventoryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T03:20:29.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\entity class\\Class1.cs",
+              "RelativeDocumentMoniker": "pbl\\entity class\\Class1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\entity class\\Class1.cs",
+              "RelativeToolTip": "pbl\\entity class\\Class1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T03:13:03.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "humanFeature.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\humanFeature.cs",
+              "RelativeDocumentMoniker": "pbl\\humanFeature.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\humanFeature.cs",
+              "RelativeToolTip": "pbl\\humanFeature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T03:40:37.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pbl.csproj",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\pbl.csproj",
+              "RelativeDocumentMoniker": "pbl\\pbl.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\pbl.csproj",
+              "RelativeToolTip": "pbl\\pbl.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-11T03:40:34.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "productManegement.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\Manager\\productManegement.cs",
+              "RelativeDocumentMoniker": "pbl\\Manager\\productManegement.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\Manager\\productManegement.cs",
+              "RelativeToolTip": "pbl\\Manager\\productManegement.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T01:27:54.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bill.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\entity class\\bill.cs",
+              "RelativeDocumentMoniker": "pbl\\entity class\\bill.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\entity class\\bill.cs",
+              "RelativeToolTip": "pbl\\entity class\\bill.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T04:10:18.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "employeeObject.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\employeeObject.cs",
+              "RelativeDocumentMoniker": "pbl\\employeeObject.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\employeeObject.cs",
+              "RelativeToolTip": "pbl\\employeeObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T03:29:02.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "client.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\client.cs",
+              "RelativeDocumentMoniker": "pbl\\client.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\client.cs",
+              "RelativeToolTip": "pbl\\client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T01:27:35.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "category.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\entity class\\category.cs",
+              "RelativeDocumentMoniker": "pbl\\entity class\\category.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\entity class\\category.cs",
+              "RelativeToolTip": "pbl\\entity class\\category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T01:27:49.084Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
