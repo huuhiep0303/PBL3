@@ -7,7 +7,6 @@ using System.Linq;
 
 namespace billOrder
 {   
-    const double count = 1;
     public class bill
     {
         // thêm biến tĩnh để gán cho mã bill

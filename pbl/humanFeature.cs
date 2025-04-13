@@ -40,45 +40,11 @@ namespace humanFeature
             country = "";
         }
     };
-    public class date
-    {
-        protected string day;
-        protected string month;
-        protected string year;
-        date()
-        {
-            day = "";
-            month = "";
-            year = "";
-        }
-        date(string day, string month, string year)
-        {
-            this.day = day;
-            this.month = month;
-            this.year = year;
-        }
-        ~date() { }
-        public void getDate()
-        {
-            Console.WriteLine("Nhập ngày: ");
-            this.day = Console.ReadLine();
-            Console.WriteLine("Nhập tháng: ");
-            this.month = Console.ReadLine();
-            Console.WriteLine("Nhập năm: ");
-            this.year = Console.ReadLine();
-        }
-        public void startDate() //khởi tạo giá trị cho lớp dùng quan hệ has is
-        {
-            day = "";
-            month = "";
-            year = "";
-        }
-    }
     public class human
     {
         protected int ID { get; set; }
         protected string name { get; set; }
-        protected date birth { get; set; }
+        protected DateTime birth { get; set; }
         protected string gender { set; get; }
         protected Location address { get; set; }
         protected string phone { get; set; }
@@ -88,14 +54,14 @@ namespace humanFeature
         {
             ID = 0;
             name = "";
-            birth.startDate();
+            birth = new DateTime(0,0,0);
             gender = "";
             address.startAddress();
             phone = "";
             userName = "";
             password = "";
         }
-        public human(int ID, string name, date birth, string gender, Location address, string phone, string userName, string password)
+        public human(int ID, string name, DateTime birth, string gender, Location address, string phone, string userName, string password)
         {
             this.ID = ID;
             this.name = name;
