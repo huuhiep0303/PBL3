@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using inforProduct;
 using pbl.entity_class;
 using pbl.Manager.Interface;
 
@@ -29,7 +30,7 @@ namespace pbl.Manager.BLL
         }
 
         //khi khách hoặc nhân viên xác nhận những gì đã mua, gọi hàm này để tạo đơn hàng 
-        public async Task<bool> CreateOrder(string customerName, List<(int productID,int quantity)> items)
+        public async Task<Order> CreateOrder(string customerName, List<(int productID,int quantity)> items)
         {
             var order = new Order(customerName);
             foreach (var (productID,quantity) in items)
@@ -38,20 +39,22 @@ namespace pbl.Manager.BLL
                 if (product == null)
                 {
                     Console.WriteLine("Sản phẩm không hợp lệ");
-                    return false;
+                    return null;
                 }
                 var check = await imService.ReduceOrSaleStock(productID, quantity,"SALE");
                 if (!check)
                 {
                     Console.WriteLine("Hết hàng!");
-                    return false;
+                    return null;
                 }
                 order.AddItem(new OrderItem(productID,product.name_product,product.price,quantity));
                 
+
             }
             orders.Add(order);
-            Console.WriteLine($"Tạo đơn cho khách hàng: {customerName}");
-            return true;
+            
+            Console.WriteLine($"Tạo đơn cho khách hàng: {customerName}, đơn hàng ở trạng thái: {order.status}");
+            return order;
 
         }
         public async Task DisplayAllOrder()
@@ -83,6 +86,7 @@ namespace pbl.Manager.BLL
             Console.WriteLine("Đã xóa!");
             return await Task.FromResult(true);
         }
+
 
     }
 }

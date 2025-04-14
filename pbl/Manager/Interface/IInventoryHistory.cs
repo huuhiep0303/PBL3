@@ -13,6 +13,7 @@ namespace pbl.Manager.Interface
         Task<List<InventoryTransaction>> GetHistoryByProductId(int productID);
         Task Display();
         Task DeleteHistoryByTransactionId(int tranId);
+        Task DeleteHistoryByProductId(int productID);
 
     }
 }

@@ -3,8 +3,9 @@
     "",
     "\\pbl",
     "\\pbl\\entity class",
-    "\\pbl\\Manager"
+    "\\pbl\\Manager",
+    "\\pbl\\Manager\\BLL"
   ],
-  "SelectedNode": "\\pbl\\client.cs",
+  "SelectedNode": "\\pbl\\Manager\\BLL\\productManegement.cs",
   "PreviewInSolutionExplorer": false
 }

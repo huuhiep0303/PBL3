@@ -11,7 +11,7 @@ namespace pbl.Manager.Interface
     {
         Task<Order> GetOrderById(int id);
         Task<List<Order>> GetOrderByDateTime(DateTime date);
-        Task<bool> CreateOrder(string customerName, List<(int productID, int quantity)> items);
+        Task<Order> CreateOrder(string customerName, List<(int productID, int quantity)> items);
         Task DisplayAllOrder();
         Task DisplayOrderByDate(DateTime date);
         Task<bool> DeleteOrder(int orderID);

@@ -35,8 +35,9 @@ namespace pbl.Manager.BLL
             {
                 Console.WriteLine($"- [{h.ChangedTime}] SP: {h.ProductId}, Hành động: {h.ActionType}," +
                     $" Số lượng: {h.QuantityChanged}, Ghi chú: {h.note}");
-                return;
-            } 
+                
+            }
+            return;
         }
         public async Task DeleteHistoryByTransactionId(int tranId)
         {
@@ -48,6 +49,18 @@ namespace pbl.Manager.BLL
             }
             IT.Remove(history);
             Console.WriteLine("Xóa thành công!");
+            return;
+        }
+        public async Task DeleteHistoryByProductId(int id)
+        {
+            var history = IT.FirstOrDefault(p => p.ProductId == id);
+            if (history == null)
+            {
+                Console.WriteLine("khong thay lịch sử sản phẩm này!");
+                return ;
+            }
+            IT.Remove(history);
+            Console.WriteLine("đã xóa ls nha!");
             return;
         }
     }

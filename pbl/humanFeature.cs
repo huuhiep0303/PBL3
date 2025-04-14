@@ -45,13 +45,13 @@ namespace humanFeature
         protected string day;
         protected string month;
         protected string year;
-        date()
+        public date()
         {
             day = "";
             month = "";
             year = "";
         }
-        date(string day, string month, string year)
+        public date(string day, string month, string year)
         {
             this.day = day;
             this.month = month;

@@ -3,3 +3,18 @@ D:\PBL3 - quản lí dịch vụ bán hàng online và offline\PBL3\pbl\obj\Debu
 D:\PBL3 - quản lí dịch vụ bán hàng online và offline\PBL3\pbl\obj\Debug\net8.0\pbl.AssemblyInfo.cs
 D:\PBL3 - quản lí dịch vụ bán hàng online và offline\PBL3\pbl\obj\Debug\net8.0\pbl.csproj.CoreCompileInputs.cache
 D:\PBL3 - quản lí dịch vụ bán hàng online và offline\PBL3\pbl\obj\Debug\net8.0\pbl.sourcelink.json
+C:\Users\ADMIN\source\repos\huuhiep0303\PBL3\pbl\obj\Debug\net8.0\pbl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\huuhiep0303\PBL3\pbl\obj\Debug\net8.0\pbl.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\huuhiep0303\PBL3\pbl\obj\Debug\net8.0\pbl.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\huuhiep0303\PBL3\pbl\obj\Debug\net8.0\pbl.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\huuhiep0303\PBL3\pbl\obj\Debug\net8.0\pbl.sourcelink.json
+C:\Users\ADMIN\source\repos\huuhiep0303\PBL3\pbl\bin\Debug\net8.0\pbl.exe
+C:\Users\ADMIN\source\repos\huuhiep0303\PBL3\pbl\bin\Debug\net8.0\pbl.deps.json
+C:\Users\ADMIN\source\repos\huuhiep0303\PBL3\pbl\bin\Debug\net8.0\pbl.runtimeconfig.json
+C:\Users\ADMIN\source\repos\huuhiep0303\PBL3\pbl\bin\Debug\net8.0\pbl.dll
+C:\Users\ADMIN\source\repos\huuhiep0303\PBL3\pbl\bin\Debug\net8.0\pbl.pdb
+C:\Users\ADMIN\source\repos\huuhiep0303\PBL3\pbl\obj\Debug\net8.0\pbl.dll
+C:\Users\ADMIN\source\repos\huuhiep0303\PBL3\pbl\obj\Debug\net8.0\refint\pbl.dll
+C:\Users\ADMIN\source\repos\huuhiep0303\PBL3\pbl\obj\Debug\net8.0\pbl.pdb
+C:\Users\ADMIN\source\repos\huuhiep0303\PBL3\pbl\obj\Debug\net8.0\pbl.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\huuhiep0303\PBL3\pbl\obj\Debug\net8.0\ref\pbl.dll
