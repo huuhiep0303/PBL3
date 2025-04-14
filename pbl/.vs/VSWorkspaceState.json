@@ -1,7 +1,15 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\bin",
+    "\\entity class",
+    "\\Manager",
+    "\\Manager\\BLL",
+    "\\Manager\\Interface",
+    "\\obj",
+    "\\obj\\Debug",
+    "\\obj\\Release"
   ],
-  "SelectedNode": "\\client.cs",
+  "SelectedNode": "\\employeeObject.cs",
   "PreviewInSolutionExplorer": false
 }

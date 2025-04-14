@@ -105,5 +105,19 @@ namespace pbl.Manager.BLL
 
             return;
         }
+        public async Task<bool> RestoreStock(int productID, int amount)
+        {
+            var inv = inventories.FirstOrDefault(i => i.productId == productID);
+            if (inv == null)
+            {
+                Console.WriteLine("Sai sp");
+                return false;
+            }
+            inv.Quantity += amount;
+            inv.lastUpdate = DateTime.Now;
+            Console.WriteLine($" Phục hồi {amount} sản phẩm {productID}. Tồn kho mới: {inv.Quantity}");
+            return true;
+        }
+
     }
 }
