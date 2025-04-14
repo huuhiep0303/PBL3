@@ -14,9 +14,9 @@ namespace pbl.Manager.BLL
     {
         //List<category> categoryList;
         private readonly List<product> products = new();
-        private readonly categoryManagement categoryService;
-        private readonly InventoryManagement inventoryService;
-        public productManagement(categoryManagement categoryManagement,InventoryManagement inventoryService)
+        private readonly ICategoryManagement categoryService;
+        private readonly IInventoryManagement inventoryService;
+        public productManagement(ICategoryManagement categoryManagement,IInventoryManagement inventoryService)
         {
             categoryService = categoryManagement;
             this.inventoryService = inventoryService;

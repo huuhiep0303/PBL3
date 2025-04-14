@@ -9,4 +9,8 @@
     <InvariantGlobalization>true</InvariantGlobalization>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="entity class\Order.cs" />
+  </ItemGroup>
+
 </Project>

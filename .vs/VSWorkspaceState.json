@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\pbl",
+    "\\pbl\\entity class",
+    "\\pbl\\Manager"
   ],
-  "SelectedNode": "\\pbl.sln",
+  "SelectedNode": "\\pbl\\client.cs",
   "PreviewInSolutionExplorer": false
 }
