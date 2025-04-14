@@ -1,11 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+    "\\bin",
     "\\entity class",
     "\\Manager",
     "\\Manager\\BLL",
-    "\\Manager\\Interface"
+    "\\Manager\\Interface",
+    "\\obj",
+    "\\obj\\Debug",
+    "\\obj\\Release"
   ],
-  "SelectedNode": "\\entity class\\Inventory.cs",
+  "SelectedNode": "\\employeeObject.cs",
   "PreviewInSolutionExplorer": false
 }
