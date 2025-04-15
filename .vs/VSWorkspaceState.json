@@ -4,8 +4,9 @@
     "\\pbl",
     "\\pbl\\entity class",
     "\\pbl\\Manager",
-    "\\pbl\\Manager\\BLL"
+    "\\pbl\\Manager\\BLL",
+    "\\pbl\\Manager\\Interface"
   ],
-  "SelectedNode": "\\pbl\\Manager\\BLL\\productManegement.cs",
+  "SelectedNode": "\\pbl\\humanFeature.cs",
   "PreviewInSolutionExplorer": false
 }
