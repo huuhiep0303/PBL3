@@ -1,4 +1,5 @@
 ﻿using System;
+using human;
 
 namespace inforProduct {
 	public class Inventory
@@ -7,7 +8,7 @@ namespace inforProduct {
 		public int inventoryId { get; set; }
 		public int Quantity { get; set; }
 		public decimal ReorderLevel { get; set; }
-		public string? Location { get; set; }
+		public Location Location { get; set; }
 		public DateTime lastUpdate { get; set; }
 		public Inventory(int ProductId, int initialQuantity, int ReorderQuantity) 
 		{
@@ -16,7 +17,8 @@ namespace inforProduct {
 			ReorderLevel = ReorderQuantity;
 			lastUpdate = DateTime.Now;
 		}
-		public bool NeedRestock() => Quantity <= ReorderLevel;
+		//Khi hàng dưới 50 thì cần nhập hàng lại
+		public bool NeedRestock() => Quantity <= ReorderLevel - 50;
 
 	}
 }
