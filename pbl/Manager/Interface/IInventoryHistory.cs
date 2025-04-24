@@ -14,6 +14,7 @@ namespace pbl.Manager.Interface
         Task Display();
         Task DeleteHistoryByTransactionId(int tranId);
         Task DeleteHistoryByProductId(int productID);
+        
 
     }
 }

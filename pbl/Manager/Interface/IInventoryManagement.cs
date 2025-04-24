@@ -12,6 +12,7 @@ namespace pbl.Manager.Interface
         Task<bool> ImportOrReturnStock(int productId, int amount,string actionType);
         Task<bool> ReduceOrSaleStock(int productId, int amount, string actionType);
         Task<Inventory> GetInventoryById(int inventoryId);
+        Task<bool> RestoreStock(int productID, int amount);
         Task DisplayLowStockProductsAsync();
     }
 }

@@ -15,5 +15,7 @@ namespace pbl.Manager.Interface
         Task DisplayAllOrder();
         Task DisplayOrderByDate(DateTime date);
         Task<bool> DeleteOrder(int orderID);
+        Task<bool> CancelOrder(int orderID);
+        Task CancelOverDueOrder(TimeSpan ts);
     }
 }

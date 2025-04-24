@@ -116,6 +116,8 @@ namespace pbl.Manager.BLL
             inv.Quantity += amount;
             inv.lastUpdate = DateTime.Now;
             Console.WriteLine($" Phục hồi {amount} sản phẩm {productID}. Tồn kho mới: {inv.Quantity}");
+            await historyService.AddTransaction(new InventoryTransaction(productID, "RESTORE"
+                , amount, "Khôi phục hàng do bị hủy hàng!"));
             return true;
         }
 

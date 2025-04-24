@@ -66,7 +66,7 @@ namespace client
             Console.WriteLine("Tên cá nhân: ");
             this.name = Console.ReadLine();
             Console.WriteLine("Ngày sinh: ");
-            birth.getDate();
+            //birth.getDate();
             Console.WriteLine("Giới tính: ");
             this.gender = Console.ReadLine();
             Console.WriteLine("Địa chỉ: ");

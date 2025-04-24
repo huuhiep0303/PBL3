@@ -27,6 +27,9 @@ namespace pbl
             // Khởi tạo PaymentManagement
             IPaymentManagement paymentManagement = new PaymentMangement();
 
+            // Khởi tạo RequestManagement
+            IRequestManagement requestService = new RequestManagement(inventoryService);
+
 
             // Thêm sản phẩm mẫu
             // Tạo 2 sản phẩm thuộc danh mục 1 và nhập thêm hàng cho 2 sản phẩm này:
@@ -66,15 +69,29 @@ namespace pbl
 
             // Hiển thị tất cả các đơn hàng đã tạo
             await orderService.DisplayAllOrder();
+            TimeSpan s = TimeSpan.FromSeconds(1);
+            TimeSpan a = TimeSpan.FromSeconds(5);
+
+            //Task.Delay(a);
+            // Hủy đơn hàng
+            //await orderService.CancelOrder(orderCreated.OrderId);
 
             //Thanh toán đơn hàng
-            await paymentManagement.Process(orderCreated, PaymentMethod.BankTransfer);
+            //await paymentManagement.Process(orderCreated, PaymentMethod.BankTransfer);
 
             //Hiển thị lại
             await orderService.DisplayAllOrder();
 
             // Hiển thị lịch sử nhap xuat kho
             await historyService.Display();
+            
+            //Yêu cầu trả hàng
+            var aa=await requestService.CreateReturnRequestAsync(orderCreated.OrderId,prodBanhMi.id_product,3,"hang deu vcl",null);
+            requestService.DisplayRequest();
+            await requestService.ApproveRequestAsync(aa.ReturnId);
+            requestService.DisplayRequest();
+
+
 
             Console.WriteLine("\n--- Demo hoàn tất ---");
             Console.ReadLine();

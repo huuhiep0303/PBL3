@@ -86,7 +86,41 @@ namespace pbl.Manager.BLL
             Console.WriteLine("Đã xóa!");
             return await Task.FromResult(true);
         }
+        public async Task<bool> CancelOrder(int orderID)
+        {
+            var order = orders.FirstOrDefault(c => c.OrderId == orderID);
+            if (order == null)
+            {
+                Console.WriteLine("Không thấy đơn hàng!");
+                return await Task.FromResult(false);
 
+            }
+            foreach (var item in order.Items)
+            {
+                bool restored = await imService.RestoreStock(item.ProductId, item.Quantity);
+                if (!restored)
+                {
+                    Console.WriteLine("Không thể phục hồi hàng");
+                    return await Task.FromResult(false);
+                }
+            }
+            order.status = Status.Canceled;
+            Console.WriteLine($"Đơn hàng {order.OrderId} đã bị hủy!");
+            return await Task.FromResult(true);
 
+        }
+        public async Task CancelOverDueOrder(TimeSpan ts)
+        {
+            var now = DateTime.Now;
+            var order = orders.Where(o => o.status == Status.Pending && now - o.OrderDate > ts).ToList();
+            foreach (var item in order)
+            {
+                bool canceled = await CancelOrder(item.OrderId);
+                if (canceled)
+                {
+                    Console.WriteLine("Quá thời gian , tự động hủy!");
+                }
+            }
+        }
     }
 }
