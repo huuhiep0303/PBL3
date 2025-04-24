@@ -42,7 +42,7 @@ namespace humanFeature
     };
     public class human
     {
-        protected int ID { get; set; }
+        protected readonly int ID { get; set; }
         protected string name { get; set; }
         protected DateTime birth { get; set; }
         protected string gender { set; get; }

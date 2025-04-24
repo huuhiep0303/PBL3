@@ -1,58 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\",
+  "WorkspaceRootPath": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85F5A9B6-BB0C-7ABE-03C3-786479990387}|pbl.csproj|c:\\users\\admin\\source\\repos\\huuhiep0303\\pbl3\\pbl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F5A9B6-BB0C-7ABE-03C3-786479990387}|pbl.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\entity class\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:entity class\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85F5A9B6-BB0C-7ABE-03C3-786479990387}|pbl.csproj|c:\\users\\admin\\source\\repos\\huuhiep0303\\pbl3\\pbl\\manager\\bll\\requestmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F5A9B6-BB0C-7ABE-03C3-786479990387}|pbl.csproj|solutionrelative:manager\\bll\\requestmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\entity class\\Inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:entity class\\Inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85F5A9B6-BB0C-7ABE-03C3-786479990387}|pbl.csproj|c:\\users\\admin\\source\\repos\\huuhiep0303\\pbl3\\pbl\\entity class\\returnrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F5A9B6-BB0C-7ABE-03C3-786479990387}|pbl.csproj|solutionrelative:entity class\\returnrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\entity class\\employeeObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:entity class\\employeeObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85F5A9B6-BB0C-7ABE-03C3-786479990387}|pbl.csproj|c:\\users\\admin\\source\\repos\\huuhiep0303\\pbl3\\pbl\\entity class\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F5A9B6-BB0C-7ABE-03C3-786479990387}|pbl.csproj|solutionrelative:entity class\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\entity class\\OrderItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:entity class\\OrderItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85F5A9B6-BB0C-7ABE-03C3-786479990387}|pbl.csproj|c:\\users\\admin\\source\\repos\\huuhiep0303\\pbl3\\pbl\\entity class\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F5A9B6-BB0C-7ABE-03C3-786479990387}|pbl.csproj|solutionrelative:entity class\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\entity class\\Payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:entity class\\Payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85F5A9B6-BB0C-7ABE-03C3-786479990387}|pbl.csproj|c:\\users\\admin\\source\\repos\\huuhiep0303\\pbl3\\pbl\\manager\\interface\\irequestmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F5A9B6-BB0C-7ABE-03C3-786479990387}|pbl.csproj|solutionrelative:manager\\interface\\irequestmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\entity class\\humanFeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:entity class\\humanFeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85F5A9B6-BB0C-7ABE-03C3-786479990387}|pbl.csproj|c:\\users\\admin\\source\\repos\\huuhiep0303\\pbl3\\pbl\\entity class\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F5A9B6-BB0C-7ABE-03C3-786479990387}|pbl.csproj|solutionrelative:entity class\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\Manager\\BLL\\InventoryHistoryManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Manager\\BLL\\InventoryHistoryManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85F5A9B6-BB0C-7ABE-03C3-786479990387}|pbl.csproj|c:\\users\\admin\\source\\repos\\huuhiep0303\\pbl3\\pbl\\entity class\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F5A9B6-BB0C-7ABE-03C3-786479990387}|pbl.csproj|solutionrelative:entity class\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\Manager\\BLL\\PaymentMangement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Manager\\BLL\\PaymentMangement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85F5A9B6-BB0C-7ABE-03C3-786479990387}|pbl.csproj|c:\\users\\admin\\source\\repos\\huuhiep0303\\pbl3\\pbl\\entity class\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F5A9B6-BB0C-7ABE-03C3-786479990387}|pbl.csproj|solutionrelative:entity class\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\entity class\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:entity class\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85F5A9B6-BB0C-7ABE-03C3-786479990387}|pbl.csproj|c:\\users\\admin\\source\\repos\\huuhiep0303\\pbl3\\pbl\\manager\\interface\\iproductmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F5A9B6-BB0C-7ABE-03C3-786479990387}|pbl.csproj|solutionrelative:manager\\interface\\iproductmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\entity class\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:entity class\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85F5A9B6-BB0C-7ABE-03C3-786479990387}|pbl.csproj|c:\\users\\admin\\source\\repos\\huuhiep0303\\pbl3\\pbl\\manager\\bll\\productmanegement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85F5A9B6-BB0C-7ABE-03C3-786479990387}|pbl.csproj|solutionrelative:manager\\bll\\productmanegement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85F5A9B6-BB0C-7ABE-03C3-786479990387}|pbl.csproj|c:\\users\\admin\\source\\repos\\huuhiep0303\\pbl3\\pbl\\manager\\bll\\inventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F5A9B6-BB0C-7ABE-03C3-786479990387}|pbl.csproj|solutionrelative:manager\\bll\\inventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\Manager\\Interface\\IProductManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Manager\\Interface\\IProductManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85F5A9B6-BB0C-7ABE-03C3-786479990387}|pbl.csproj|c:\\users\\admin\\source\\repos\\huuhiep0303\\pbl3\\pbl\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F5A9B6-BB0C-7ABE-03C3-786479990387}|pbl.csproj|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\humanFeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:humanFeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85F5A9B6-BB0C-7ABE-03C3-786479990387}|pbl.csproj|c:\\users\\admin\\source\\repos\\huuhiep0303\\pbl3\\pbl\\employeeobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -130,7 +130,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -138,124 +138,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAE0AAAAAAAAAAADgv1sAAAA5AAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\entity class\\OrderItem.cs",
+              "RelativeDocumentMoniker": "entity class\\OrderItem.cs",
+              "ToolTip": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\entity class\\OrderItem.cs",
+              "RelativeToolTip": "entity class\\OrderItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T02:01:41.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ReturnRequest.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\entity class\\ReturnRequest.cs",
-              "RelativeDocumentMoniker": "entity class\\ReturnRequest.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\entity class\\ReturnRequest.cs",
-              "RelativeToolTip": "entity class\\ReturnRequest.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAA7wBQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T18:02:11.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T09:22:48.297Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "product.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\entity class\\product.cs",
-              "RelativeDocumentMoniker": "entity class\\product.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\entity class\\product.cs",
-              "RelativeToolTip": "entity class\\product.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAuwBsAAAAAAAAAAAAAAA==",
+              "Title": "InventoryHistoryManagement.cs",
+              "DocumentMoniker": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\Manager\\BLL\\InventoryHistoryManagement.cs",
+              "RelativeDocumentMoniker": "Manager\\BLL\\InventoryHistoryManagement.cs",
+              "ToolTip": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\Manager\\BLL\\InventoryHistoryManagement.cs",
+              "RelativeToolTip": "Manager\\BLL\\InventoryHistoryManagement.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T07:02:11.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ShoppingCart.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\entity class\\ShoppingCart.cs",
-              "RelativeDocumentMoniker": "entity class\\ShoppingCart.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\entity class\\ShoppingCart.cs",
-              "RelativeToolTip": "entity class\\ShoppingCart.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAAArwH0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T01:51:04.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ShoppingCartItem.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\entity class\\ShoppingCartItem.cs",
-              "RelativeDocumentMoniker": "entity class\\ShoppingCartItem.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\entity class\\ShoppingCartItem.cs",
-              "RelativeToolTip": "entity class\\ShoppingCartItem.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T01:45:40.935Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RequestManagement.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\Manager\\BLL\\RequestManagement.cs",
-              "RelativeDocumentMoniker": "Manager\\BLL\\RequestManagement.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\Manager\\BLL\\RequestManagement.cs",
-              "RelativeToolTip": "Manager\\BLL\\RequestManagement.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBgAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T18:25:49.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IRequestManagement.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\Manager\\Interface\\IRequestManagement.cs",
-              "RelativeDocumentMoniker": "Manager\\Interface\\IRequestManagement.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\Manager\\Interface\\IRequestManagement.cs",
-              "RelativeToolTip": "Manager\\Interface\\IRequestManagement.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBUAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T18:22:20.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Payment.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\entity class\\Payment.cs",
-              "RelativeDocumentMoniker": "entity class\\Payment.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\entity class\\Payment.cs",
-              "RelativeToolTip": "entity class\\Payment.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA7wBoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T04:04:03.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\entity class\\Order.cs",
-              "RelativeDocumentMoniker": "entity class\\Order.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\entity class\\Order.cs",
-              "RelativeToolTip": "entity class\\Order.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAswCQAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T08:09:05.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T07:35:53.866Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "client.cs",
+              "DocumentMoniker": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\entity class\\client.cs",
+              "RelativeDocumentMoniker": "entity class\\client.cs",
+              "ToolTip": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\entity class\\client.cs",
+              "RelativeToolTip": "entity class\\client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:32:43.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\entity class\\Payment.cs",
+              "RelativeDocumentMoniker": "entity class\\Payment.cs",
+              "ToolTip": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\entity class\\Payment.cs",
+              "RelativeToolTip": "entity class\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:32:21.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "humanFeature.cs",
+              "DocumentMoniker": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\entity class\\humanFeature.cs",
+              "RelativeDocumentMoniker": "entity class\\humanFeature.cs",
+              "ToolTip": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\entity class\\humanFeature.cs",
+              "RelativeToolTip": "entity class\\humanFeature.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAC4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:39:49.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "IProductManagement.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\Manager\\Interface\\IProductManagement.cs",
               "RelativeDocumentMoniker": "Manager\\Interface\\IProductManagement.cs",
@@ -307,184 +250,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "OrderManagement.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\Manager\\BLL\\OrderManagement.cs",
-              "RelativeDocumentMoniker": "Manager\\BLL\\OrderManagement.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\Manager\\BLL\\OrderManagement.cs",
-              "RelativeToolTip": "Manager\\BLL\\OrderManagement.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAwwFgAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T08:17:59.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 2,
               "Title": "employeeObject.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\employeeObject.cs",
-              "RelativeDocumentMoniker": "employeeObject.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\employeeObject.cs",
-              "RelativeToolTip": "employeeObject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\entity class\\employeeObject.cs",
+              "RelativeDocumentMoniker": "entity class\\employeeObject.cs",
+              "ToolTip": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\entity class\\employeeObject.cs",
+              "RelativeToolTip": "entity class\\employeeObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T17:43:19.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T00:40:23.902Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IOrderManagement.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\Manager\\Interface\\IOrderManagement.cs",
-              "RelativeDocumentMoniker": "Manager\\Interface\\IOrderManagement.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\Manager\\Interface\\IOrderManagement.cs",
-              "RelativeToolTip": "Manager\\Interface\\IOrderManagement.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwA8AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T08:54:13.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PaymentMangement.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\Manager\\BLL\\PaymentMangement.cs",
-              "RelativeDocumentMoniker": "Manager\\BLL\\PaymentMangement.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\Manager\\BLL\\PaymentMangement.cs",
-              "RelativeToolTip": "Manager\\BLL\\PaymentMangement.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T06:52:30.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IInventoryHistory.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\Manager\\Interface\\IInventoryHistory.cs",
-              "RelativeDocumentMoniker": "Manager\\Interface\\IInventoryHistory.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\Manager\\Interface\\IInventoryHistory.cs",
-              "RelativeToolTip": "Manager\\Interface\\IInventoryHistory.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAMwBAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T06:48:22.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "InventoryTransaction.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\entity class\\InventoryTransaction.cs",
-              "RelativeDocumentMoniker": "entity class\\InventoryTransaction.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\entity class\\InventoryTransaction.cs",
-              "RelativeToolTip": "entity class\\InventoryTransaction.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T06:06:47.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "InventoryHistoryManagement.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\Manager\\BLL\\InventoryHistoryManagement.cs",
-              "RelativeDocumentMoniker": "Manager\\BLL\\InventoryHistoryManagement.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\Manager\\BLL\\InventoryHistoryManagement.cs",
-              "RelativeToolTip": "Manager\\BLL\\InventoryHistoryManagement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAcwDUAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T06:22:50.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IInventoryManagement.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\Manager\\Interface\\IInventoryManagement.cs",
-              "RelativeDocumentMoniker": "Manager\\Interface\\IInventoryManagement.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\Manager\\Interface\\IInventoryManagement.cs",
-              "RelativeToolTip": "Manager\\Interface\\IInventoryManagement.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAswA4AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T11:01:35.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IHumanFeature.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\Manager\\Interface\\IHumanFeature.cs",
-              "RelativeDocumentMoniker": "Manager\\Interface\\IHumanFeature.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\Manager\\Interface\\IHumanFeature.cs",
-              "RelativeToolTip": "Manager\\Interface\\IHumanFeature.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T17:18:48.461Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "IPaymentManagement.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\Manager\\Interface\\IPaymentManagement.cs",
-              "RelativeDocumentMoniker": "Manager\\Interface\\IPaymentManagement.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\Manager\\Interface\\IPaymentManagement.cs",
-              "RelativeToolTip": "Manager\\Interface\\IPaymentManagement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\entity class\\Inventory.cs",
+              "RelativeDocumentMoniker": "entity class\\Inventory.cs",
+              "ToolTip": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\entity class\\Inventory.cs",
+              "RelativeToolTip": "entity class\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T07:04:20.518Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "categoryManagement.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\Manager\\BLL\\categoryManagement.cs",
-              "RelativeDocumentMoniker": "Manager\\BLL\\categoryManagement.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\Manager\\BLL\\categoryManagement.cs",
-              "RelativeToolTip": "Manager\\BLL\\categoryManagement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\entity class\\Order.cs",
+              "RelativeDocumentMoniker": "entity class\\Order.cs",
+              "ToolTip": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\entity class\\Order.cs",
+              "RelativeToolTip": "entity class\\Order.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T07:15:37.054Z",
+              "WhenOpened": "2025-04-17T09:22:55.827Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ICategoryManagement.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\Manager\\Interface\\ICategoryManagement.cs",
-              "RelativeDocumentMoniker": "Manager\\Interface\\ICategoryManagement.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\Manager\\Interface\\ICategoryManagement.cs",
-              "RelativeToolTip": "Manager\\Interface\\ICategoryManagement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "PaymentMangement.cs",
+              "DocumentMoniker": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\Manager\\BLL\\PaymentMangement.cs",
+              "RelativeDocumentMoniker": "Manager\\BLL\\PaymentMangement.cs",
+              "ToolTip": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\Manager\\BLL\\PaymentMangement.cs",
+              "RelativeToolTip": "Manager\\BLL\\PaymentMangement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:44:46.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "category.cs",
+              "DocumentMoniker": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\entity class\\category.cs",
+              "RelativeDocumentMoniker": "entity class\\category.cs",
+              "ToolTip": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\entity class\\category.cs",
+              "RelativeToolTip": "entity class\\category.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T08:42:41.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "category.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\entity class\\category.cs",
-              "RelativeDocumentMoniker": "entity class\\category.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\entity class\\category.cs",
-              "RelativeToolTip": "entity class\\category.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "InventoryManagement.cs",
+              "DocumentMoniker": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\Manager\\BLL\\InventoryManagement.cs",
+              "RelativeDocumentMoniker": "Manager\\BLL\\InventoryManagement.cs",
+              "ToolTip": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\Manager\\BLL\\InventoryManagement.cs",
+              "RelativeToolTip": "Manager\\BLL\\InventoryManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T06:11:26.749Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 12,
               "Title": "humanFeature.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\humanFeature.cs",
+              "DocumentMoniker": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\humanFeature.cs",
               "RelativeDocumentMoniker": "humanFeature.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\huuhiep0303\\PBL3\\pbl\\humanFeature.cs",
+              "ToolTip": "D:\\PBL3 - qu\u1EA3n l\u00ED d\u1ECBch v\u1EE5 b\u00E1n h\u00E0ng online v\u00E0 offline\\PBL3\\pbl\\humanFeature.cs",
               "RelativeToolTip": "humanFeature.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAAAvwFcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T10:57:01.172Z"
+              "WhenOpened": "2025-04-04T00:24:36.098Z"
             },
             {
               "$type": "Document",
@@ -520,7 +370,7 @@
               "RelativeToolTip": "entity class\\bill.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T06:10:51.494Z"
+              "WhenOpened": "2025-04-04T00:50:02.011Z"
             }
           ]
         }
