@@ -42,7 +42,11 @@ namespace humanFeature
     };
     public class human
     {
-        protected readonly int ID { get; set; }
+        protected readonly int ID;
+        public human (int ID)
+        {
+            this.ID = ID;
+        }
         protected string name { get; set; }
         protected DateTime birth { get; set; }
         protected string gender { set; get; }
@@ -54,7 +58,7 @@ namespace humanFeature
         {
             ID = 0;
             name = "";
-            birth = new DateTime(0,0,0);
+            birth = new DateTime(0, 0, 0);
             gender = "";
             address.startAddress();
             phone = "";

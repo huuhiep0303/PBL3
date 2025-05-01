@@ -1,5 +1,5 @@
 ﻿using System;
-using human;
+using humanFeature;
 
 namespace inforProduct {
 	public class Inventory

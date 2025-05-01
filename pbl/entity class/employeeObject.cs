@@ -1,6 +1,5 @@
 using humanFeature;
-using Order;
-using OrderItem
+
 namespace Employee
 {
     public class EmployeeObject : human
@@ -11,7 +10,6 @@ namespace Employee
         protected DateTime workDate;
         public EmployeeObject()
         {
-            position = "";
             salary = 0;
             shift = 0;
             workDate = new DateTime(0, 0, 0);
@@ -19,7 +17,6 @@ namespace Employee
 
         public EmployeeObject(string position, double salary, int shift, Location workPlace, DateTime workDate)
         {
-            this.position = position;
             this.salary = salary;
             this.shift = shift;
             this.workPlace = workPlace;
@@ -28,7 +25,6 @@ namespace Employee
 
         class ManageStore : EmployeeObject
         {
-            public override string position = "Quản lí kho"; //chức vụ
             protected List<string> productList;
             protected List<double> price;
             protected List<int> quantity;
@@ -42,11 +38,10 @@ namespace Employee
                 this.quantity = new List<int>();
             }
 
-            public ManageStore(double salary, int shift, double efficiency)
+            public ManageStore(double salary, int shift)
             {
                 this.salary = salary;
                 this.shift = shift;
-                this.efficiency = efficiency;
             }
 
             public void addProduct(string product, double price, int quantity)
@@ -83,5 +78,7 @@ namespace Employee
                 }
             }
         }
+    }
+}
 
        
