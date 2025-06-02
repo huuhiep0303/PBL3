@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Formemployee
 {
-    public partial class UC_Sanpham : UserControl
+    public partial class UC_Banhang : UserControl
     {
-        public UC_Sanpham()
+        public UC_Banhang()
         {
             InitializeComponent();
         }
@@ -22,14 +22,19 @@ namespace Formemployee
 
         }
 
-        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        private void maskedTextBox3_MaskInputRejected(object sender, MaskInputRejectedEventArgs e)
         {
 
         }
 
-        private void textBox3_TextChanged(object sender, EventArgs e)
+        private void label12_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Thanh toán thành công", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
     }
 }

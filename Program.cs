@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Formcustomer
+namespace Formemployee
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace Formcustomer
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new CustomerForm());
+            Application.Run(new formemployee());
         }
     }
 }
